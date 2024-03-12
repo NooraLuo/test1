@@ -1,0 +1,27 @@
+p{
+    font-size:50px;
+    color: rgb(186, 112, 255);
+
+    background: #3d804f;
+
+    width: 500px;
+    height: 500px;
+
+    font-family: Helvetica;
+
+    margin: 40px;
+
+    padding: 50px;
+
+    border-width: 5px;
+    border-color: black;
+    border-style: groove;
+
+    position: relative;z-index: 1;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background: rgb(0, 239, 239);
+}
