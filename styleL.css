@@ -1,0 +1,110 @@
+.header {
+    width: 100%;
+    height: 70px;
+    background: #e34c00;
+    position: fixed;
+    top: 0px;
+    left: 0;
+    z-index: 5;
+    border-bottom: 9px solid  black ;
+
+   
+    
+}
+
+.head-text{
+    font-size: 40px;
+    text-align: left;
+    padding: 15px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+    z-index: 2;
+}
+
+
+body{
+    background: #ffab00;
+}
+
+
+.main-text image{
+      
+    
+    width: 100%;
+    height: auto;
+    background-color:#ffab00 ;
+    z-index: 4;
+    position:fixed
+
+}
+
+.image{
+    top: 35px;
+    left: 1px;
+    width: 100%;
+    height: auto;
+    z-index: 3;
+    position: absolute;
+
+   
+}
+
+#myVideo{
+    top: 35px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    z-index: 1;
+    background: #ffab00;
+}
+
+.text{
+    
+    position: fixed;
+    top: 750px;
+    left: 12px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+    z-index: 5;
+    color: white;
+   
+  
+}
+
+
+ .text:hover p{
+    color:orangered;
+    
+}
+
+
+.note{
+    
+    position: fixed;
+    top: 685px;
+    right: 15px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+   width: 30%;
+    z-index: 5;
+    color: white;
+   
+    text-align: right;
+  
+}
+
+
+
+  
+
+
+
+

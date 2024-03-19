@@ -1,0 +1,164 @@
+
+
+
+.header {
+    width: 100%;
+    height: 70px;
+    background: #e34c00;
+    position: fixed;
+    top: 0px;
+    left: 0;
+    z-index: 2;
+    border-bottom: 9px solid white;
+
+    
+}
+
+body{
+    background: #ffab00;
+}
+
+.head-text{
+    font-size: 40px;
+    text-align: left;
+    padding: 15px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+    z-index: 2
+    
+}
+
+a{
+    color: white;
+}
+
+
+
+.main-image{
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: auto;
+    top: 35px;
+    position: absolute;
+    
+    width: 100%;
+    height: auto;
+    z-index: 1;
+    
+}
+
+.textone{
+    
+    position: absolute;
+    top: 10%;
+    left: 170px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 700px;
+    z-index: 4;
+    color: white;
+
+}
+
+.bodytext{
+    position: absolute;
+    top: 20%;
+    left: 315px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    width: 50%;
+    
+    color: white;
+    z-index: 4;
+
+}
+
+
+
+.texttwo{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    width: 700px;
+    z-index: 2;
+    color: white;
+   
+
+}
+.textthree{
+    position: absolute;
+    top: 190px;
+    right: 40px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    width: 20px;
+    z-index: 2;
+    color: white;
+   
+
+}
+
+.textfour{
+    position: absolute;
+    top: 245px;
+    right: 87px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    width: 20px;
+    z-index: 2;
+    color: white;
+   
+
+}
+.textfive{
+  
+
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    width: 50%;
+    z-index: 4;
+    color:black;
+    font-style: italic;
+}
+
+.cycle{
+    width: 10%;
+    height: auto;
+    position:absolute;
+    bottom: 300px;
+    left: 300px;
+    z-index: 3;
+
+}
+
+.cycle2{
+    width: 20%;
+    height: auto;
+    position:absolute;
+    bottom: 100px;
+    right: 50px;
+    z-index: 3;
+}
+
+
+
+
+
+
+
+
+
